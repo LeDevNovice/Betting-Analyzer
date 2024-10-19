@@ -1,0 +1,5 @@
+elasticsearch
+logging
+pandas
+python-dotenv
+sys
